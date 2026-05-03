@@ -8,7 +8,7 @@
 		<meta name="translator" content="Web3D X3D/VRML2 format v2.5.1" />
 	</head>
 	<Scene>
-		<NavigationInfo headlight="true"
+		<NavigationInfo headlight="false"
 		                visibilityLimit="0.0"
 		                type='"EXAMINE", "ANY"'
 		                avatarSize="0.25, 1.75, 0.75"
